@@ -1,0 +1,24 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17306408.203effc9.200x200o.34baf459f6b7.jpg",
+    "player_id": 17306408,
+    "@id": "https://api.chess.com/pub/player/lyonbeast",
+    "url": "https://www.chess.com/member/LyonBeast",
+    "name": "Maxime Vachier-Lagrave",
+    "username": "lyonbeast",
+    "title": "GM",
+    "followers": 15857,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1794329008,
+    "joined": 1400144409,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/mvlchess",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/mvlchess"
+        }
+    ]
+}

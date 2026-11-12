@@ -1,0 +1,18 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30366824.22d6b1f8.200x200o.bf8ce3f933fc.jpg",
+    "player_id": 30366824,
+    "@id": "https://api.chess.com/pub/player/gmwso",
+    "url": "https://www.chess.com/member/GMWSO",
+    "name": "Wesley So",
+    "username": "gmwso",
+    "title": "GM",
+    "followers": 11420,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1793996553,
+    "joined": 1476324243,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": []
+}

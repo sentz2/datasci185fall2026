@@ -1,0 +1,19 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20718020.b93b0dad.200x200o.ce63c2b5ea24.jpeg",
+    "player_id": 20718020,
+    "@id": "https://api.chess.com/pub/player/ghandeevam2003",
+    "url": "https://www.chess.com/member/GHANDEEVAM2003",
+    "name": "Arjun Erigaisi",
+    "username": "ghandeevam2003",
+    "title": "GM",
+    "followers": 6734,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Warangal",
+    "last_online": 1794350531,
+    "joined": 1421783344,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": []
+}

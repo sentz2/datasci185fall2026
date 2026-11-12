@@ -1,0 +1,93 @@
+{
+    "chess_daily": {
+        "last": {
+            "rating": 2064,
+            "date": 1588686483,
+            "rd": 284
+        },
+        "best": {
+            "rating": 2064,
+            "date": 1403518452,
+            "game": "https://www.chess.com/game/daily/90432138"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 49253,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2811,
+            "date": 1780850354,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2886,
+            "date": 1696016273,
+            "game": "https://www.chess.com/game/live/89585430569"
+        },
+        "record": {
+            "win": 109,
+            "loss": 46,
+            "draw": 91
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3258,
+            "date": 1793833566,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3300,
+            "date": 1793469369,
+            "game": "https://www.chess.com/game/live/187784887547"
+        },
+        "record": {
+            "win": 1600,
+            "loss": 746,
+            "draw": 231
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3247,
+            "date": 1794256726,
+            "rd": 34
+        },
+        "best": {
+            "rating": 3315,
+            "date": 1793205222,
+            "game": "https://www.chess.com/game/live/188230685609"
+        },
+        "record": {
+            "win": 2366,
+            "loss": 830,
+            "draw": 572
+        }
+    },
+    "fide": 2780,
+    "tactics": {
+        "highest": {
+            "rating": 3170,
+            "date": 1763854046
+        },
+        "lowest": {
+            "rating": 2722,
+            "date": 1760030816
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 89,
+            "score": 86
+        },
+        "daily": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

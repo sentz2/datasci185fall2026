@@ -1,0 +1,17 @@
+{
+    "player_id": 88920388,
+    "@id": "https://api.chess.com/pub/player/hansontwitch",
+    "url": "https://www.chess.com/member/HansOnTwitch",
+    "name": "Hans Niemann",
+    "username": "hansontwitch",
+    "title": "GM",
+    "followers": 6850,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1793990017,
+    "joined": 1597255088,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": []
+}
