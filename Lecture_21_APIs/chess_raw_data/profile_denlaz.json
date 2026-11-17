@@ -1,0 +1,19 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34145346.088fe903.200x200o.497edc350e6a.webp",
+    "player_id": 34145346,
+    "@id": "https://api.chess.com/pub/player/denlaz",
+    "url": "https://www.chess.com/member/DenLaz",
+    "name": "Denis Lazavik",
+    "username": "denlaz",
+    "title": "GM",
+    "followers": 2756,
+    "country": "https://api.chess.com/pub/country/BY",
+    "location": "Minsk",
+    "last_online": 1794334517,
+    "joined": 1490115455,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": []
+}

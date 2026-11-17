@@ -1,0 +1,19 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42022994.2c7a0722.200x200o.3088f5180d8d.jpg",
+    "player_id": 42022994,
+    "@id": "https://api.chess.com/pub/player/firouzja2003",
+    "url": "https://www.chess.com/member/Firouzja2003",
+    "name": "Alireza Firouzja",
+    "username": "firouzja2003",
+    "title": "GM",
+    "followers": 32737,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "France",
+    "last_online": 1794172729,
+    "joined": 1515159662,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": []
+}

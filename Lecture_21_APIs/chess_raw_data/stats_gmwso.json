@@ -1,0 +1,69 @@
+{
+    "chess_rapid": {
+        "last": {
+            "rating": 2774,
+            "date": 1774466070,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2938,
+            "date": 1567214174,
+            "game": "https://www.chess.com/game/live/83091942821"
+        },
+        "record": {
+            "win": 177,
+            "loss": 63,
+            "draw": 176
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3140,
+            "date": 1763417566,
+            "rd": 47
+        },
+        "best": {
+            "rating": 3206,
+            "date": 1632155750,
+            "game": "https://www.chess.com/game/live/5927216153"
+        },
+        "record": {
+            "win": 962,
+            "loss": 456,
+            "draw": 187
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3267,
+            "date": 1793996458,
+            "rd": 37
+        },
+        "best": {
+            "rating": 3317,
+            "date": 1793117997,
+            "game": "https://www.chess.com/game/live/171104428207"
+        },
+        "record": {
+            "win": 2593,
+            "loss": 1082,
+            "draw": 795
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2867,
+            "date": 1476324243
+        },
+        "lowest": {
+            "rating": 2867,
+            "date": 1476324243
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 60,
+            "score": 57
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11177810.9dfc8d31.200x200o.9a9eccebc07c.png",
+    "player_id": 11177810,
+    "@id": "https://api.chess.com/pub/player/fabianocaruana",
+    "url": "https://www.chess.com/member/FabianoCaruana",
+    "name": "Fabiano Caruana",
+    "username": "fabianocaruana",
+    "title": "GM",
+    "followers": 25472,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1794346841,
+    "joined": 1363533272,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": []
+}

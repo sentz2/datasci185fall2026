@@ -1,0 +1,98 @@
+{
+    "chess_daily": {
+        "last": {
+            "rating": 1400,
+            "date": 1739288842,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 390921,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1235,
+            "date": 1498255211,
+            "rd": 249
+        },
+        "record": {
+            "win": 0,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 390921,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2799,
+            "date": 1794159104,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2808,
+            "date": 1590780735,
+            "game": "https://www.chess.com/game/live/167765230116"
+        },
+        "record": {
+            "win": 152,
+            "loss": 69,
+            "draw": 179
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3197,
+            "date": 1786613994,
+            "rd": 49
+        },
+        "best": {
+            "rating": 3263,
+            "date": 1751126962,
+            "game": "https://www.chess.com/game/live/83349373163"
+        },
+        "record": {
+            "win": 1145,
+            "loss": 754,
+            "draw": 198
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3333,
+            "date": 1794334505,
+            "rd": 42
+        },
+        "best": {
+            "rating": 3350,
+            "date": 1771952371,
+            "game": "https://www.chess.com/game/live/159181652611"
+        },
+        "record": {
+            "win": 3533,
+            "loss": 1303,
+            "draw": 926
+        }
+    },
+    "fide": 2515,
+    "tactics": {
+        "highest": {
+            "rating": 2991,
+            "date": 1490115455
+        },
+        "lowest": {
+            "rating": 2991,
+            "date": 1490115455
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 109,
+            "score": 106
+        }
+    }
+}

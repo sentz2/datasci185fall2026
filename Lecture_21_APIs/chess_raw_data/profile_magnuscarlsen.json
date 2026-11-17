@@ -1,0 +1,19 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3889224.121e2094.200x200o.361c2f8a59c2.jpg",
+    "player_id": 3889224,
+    "@id": "https://api.chess.com/pub/player/magnuscarlsen",
+    "url": "https://www.chess.com/member/MagnusCarlsen",
+    "name": "Magnus Carlsen",
+    "username": "magnuscarlsen",
+    "title": "GM",
+    "followers": 331628,
+    "country": "https://api.chess.com/pub/country/NO",
+    "location": "Norway",
+    "last_online": 1794357353,
+    "joined": 1282856720,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": []
+}
